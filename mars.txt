@@ -1,3 +1,4 @@
 Yay, it's Wednesday.
 Tomorrow is Thursday
 And the day after is Friday
+This is through the github servers
